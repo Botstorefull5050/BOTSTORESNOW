@@ -1,0 +1,13 @@
+pyrogram==1.2.8
+tgcrypto==1.2.2
+beautifulsoup4==4.9.3
+pyromod==1.5
+async-lru==1.0.2
+PyYAML==5.4.1
+python-dotenv==0.17.0
+langs==0.1.1
+tortoise-orm==0.17.2
+meval==2.5
+httpx==0.17.1
+matplotlib==3.4.1
+h2==4.0.0
