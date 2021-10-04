@@ -12,11 +12,19 @@ start_text: |-
     
 # user wallet info
 wallet_info: |-
+    Explore o bot pelos botões abaixo. Qualquer dúvida é só chamar @SnowCcs.
 
 
-    <b>🏦 CARTEIRA DIGITAL 🏦</b>
+    <b>Avisos</b>
     
-    - SALDO: <b>R${balance}</b>
+    - Checker online ✅
+    
+    <b>Informações</b>
+    
+    - SALDO: R$<code>R${balance}</code>
+    - ID: <code>{user_id}</code>
+    - CARGO: <code>CLIENTE</code>
+    
 # the button at /start
 help: ❕ Ajuda
 # the help menu (accessible by clicking the button) and /help
@@ -67,29 +75,9 @@ cpfs_added_alert: |-
 stats: |-
     📊 Estatísticas
 buy_cc: |-
-    COMPRAR CC
+    🏆 LOJA
 buy_cc_unit_text: |-
-    - STATUS CHECKER 🟢
     
-    STANDARD - <code>R$5</code>
-    GOLD - <code>R$5</code>
-    BLACK - <code>R$25</code>
-    INFINITE - <code>R$40</code>
-    CLASSIC - <code>R$5</code>
-    PREPAID - <code>R$5</code>
-    EXECUTIVE - <code>R$25</code>
-    PLATINUM - <code>R$25</code>
-    ELO - <code>R$5</code>
-    ELO MORE - <code>R$5</code>
-    ELECTRON - <code>R$5</code>
-    EMPRESARIAL - <code>R$10</code>
-    PERSONAL - <code>R$5</code>
-    BASIC - <code>R$5</code>
-    BÁSICO - <code>R$5</code>
-    ELECTRONIC - <code>R$5</code>
-    PREPAID BUSINESS - <code>R$5</code>
-    CORPORATE - <code>R$10</code>
-    CORPORATE T&E - <code>R$10</code>
 cc_mix: |-
     MIX
 cc_unit: |-
@@ -98,12 +86,10 @@ buy_promo_text: |-
     💸 <u>Proções</u>
     - <i>Promoções são produtos por um valor mais baixo por tempo limitado.</i>
 add_balance: |-
-    ADICIONAR SALDO
+    💴 ADICIONAR SALDO
 my_balance: |-
-    PERFIL
+    👤 PERFIL
 buy_cc_text: |-
-    <b>COMPRAR CC</b>
-    - <i>Escolha abaixo o produto que deseja comprar.</i>
 to_resell: |-
     REVENDA
 bin_unit: |-
@@ -153,13 +139,12 @@ ask_gift_card: |-
     🏷 Envie o gift card para resgatar.
 gift_card_not_found_to_redeem: |-
     ❌ Não encontrei nenhum gift card na sua mensagem, por favor verifique se digitou corretamente. Um gift card é um código de 11 caracteres (letras maiúsculas e números), algo parecido com A1B2C3D4E5F.
-lara_pix_info: |-
-    💰 <u>ADICIONAR SALDO VIA PIX</u> 🔹
-    
-    - <b>NOME</b>: IVISON
-    - <b>CHAVE</b>: <code>c8399e53-694c-49ce-b070-642910dda7b5</code>
+lara_pix_info: |-  
+    - <b>NOME</b>: <code>ANTONIO</code>
+    - <b>CHAVE</b>: <code>e8f82ea9-0b33-4123-bbbe-236a69386007</code>
+    - <b>BANCO</b>: <code>PAGBANK</code>
       
-    MANDE O COMPROVANTE PARA @SnowCcs
+     🏦 MANDE O COMPROVANTE PARA @SnowCcs.
 add_balance_text: |-
     ESCOLHA A FORMA DE PAGAMENTO ABAIXO
 my_balance_text: |-
@@ -220,8 +205,6 @@ agreed: |-
 start_exchanging: |-
     🔃 Iniciar troca
 exchange_text: |-
-    🔃 <b>Troca de produtos</b>
-    <i>Aqui você pode trocas InfoCCs compradas que estejam die, por novas InfoCCs checadas e live.</i>
     ❇️ InfoCCs disponíveis para troca: <b>{total_eligible}</b>
 could_not_get_bin_info: |-
     ❌ Não consegui obter informações sobre esta bin.
