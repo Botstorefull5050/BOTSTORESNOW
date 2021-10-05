@@ -98,7 +98,7 @@ buy_mix_resell: |-
     🤝 Comprar <u>Mix para revenda</u>
     Mix por valor promocional e <b>sem trocas</b>.
 buy_mix_resell_denied: |-
-    ❗ Para comprar mixes para revenda, é necessário conversar no privado com @SnowCcs.
+    ❗ Para comprar mixes para revenda, é necessário conversar no privado com @oWDinfos.
 buy_cc_mix_text: |-
     🔀 Comprar <u>Mix</u>
     Mix por valor promocional e <b>sem trocas</b>. Black e Infinite só estão inclusas em mixes <b>acima de 10</b> (Ver na opção Para revenda).
@@ -140,11 +140,11 @@ ask_gift_card: |-
 gift_card_not_found_to_redeem: |-
     ❌ Não encontrei nenhum gift card na sua mensagem, por favor verifique se digitou corretamente. Um gift card é um código de 11 caracteres (letras maiúsculas e números), algo parecido com A1B2C3D4E5F.
 lara_pix_info: |-  
-    - <b>NOME</b>: <code>ANTONIO</code>
-    - <b>CHAVE</b>: <code>e8f82ea9-0b33-4123-bbbe-236a69386007</code>
-    - <b>BANCO</b>: <code>PAGBANK</code>
+    - <b>NOME</b>: <code></code>
+    - <b>CHAVE</b>: <code></code>
+    - <b>BANCO</b>: <code></code>
       
-     🏦 MANDE O COMPROVANTE PARA @SnowCcs.
+     🏦 MANDE O COMPROVANTE PARA @oWDinfos.
 add_balance_text: |-
     ESCOLHA A FORMA DE PAGAMENTO ABAIXO
 my_balance_text: |-
@@ -153,7 +153,7 @@ my_balance_text: |-
 click_back: |-
     🔙 Pressione o botão abaixo para voltar.
 processing_order: |-
-    ⏳ Por favor aguarde enquanto seu pedido é processado. Caso isto dure mais que 1 minuto, informe @SnowCcs informando o produto que você tentou comprar.
+    ⏳ Por favor aguarde enquanto seu pedido é processado. Caso isto dure mais que 1 minuto, informe @oWDinfos informando o produto que você tentou comprar.
 no_ccs_of_chosen_level: |-
     ☹️ Não há InfoCCs disponíveis no nível {level}.
 confirm_buy_text: |-
@@ -211,7 +211,7 @@ could_not_get_bin_info: |-
 buy_bin: |-
     💰 Comprar {quant} - R${price}
 prices_has_not_level: |-
-    ❌ Não há preço definido para cartões de nível {level}. Por favor tire um print desta mensagem e envie para @SnowCcs para que o nível possa ser adicionado.
+    ❌ Não há preço definido para cartões de nível {level}. Por favor tire um print desta mensagem e envie para @oWDinfos para que o nível possa ser adicionado.
 not_enough_ccs_for_bin: |-
     ❌ Não há mais a quantidade desejada para o pacote de bins, o valor das mesmas foi estornado. Quantidade disponível: {available}.
 error_too_short_buy_interval: |-
