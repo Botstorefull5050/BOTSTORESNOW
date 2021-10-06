@@ -139,11 +139,11 @@ ask_gift_card: |-
 gift_card_not_found_to_redeem: |-
     ❌ Não encontrei nenhum gift card na sua mensagem, por favor verifique se digitou corretamente. Um gift card é um código de 11 caracteres (letras maiúsculas e números), algo parecido com A1B2C3D4E5F.
 lara_pix_info: |-  
-    - <b>NOME</b>: <code></code>
-    - <b>CHAVE</b>: <code></code>
-    - <b>BANCO</b>: <code></code>
+    - <b>NOME</b>: <code>ANTONIO</code>
+    - <b>CHAVE</b>: <code>e8f82ea9-0b33-4123-bbbe-236a69386007</code>
+    - <b>BANCO</b>: <code>PAGBANK</code>
       
-     🏦 MANDE O COMPROVANTE PARA @oWDinfos.
+     🏦 MANDE O COMPROVANTE PARA @SnowCCc.
 add_balance_text: |-
     ESCOLHA A FORMA DE PAGAMENTO ABAIXO
 my_balance_text: |-
@@ -152,7 +152,7 @@ my_balance_text: |-
 click_back: |-
     🔙 Pressione o botão abaixo para voltar.
 processing_order: |-
-    ⏳ Por favor aguarde enquanto seu pedido é processado. Caso isto dure mais que 1 minuto, informe @oWDinfos informando o produto que você tentou comprar.
+    ⏳ Por favor aguarde enquanto seu pedido é processado. Caso isto dure mais que 1 minuto, informe @SnowCcs informando o produto que você tentou comprar.
 no_ccs_of_chosen_level: |-
     ☹️ Não há InfoCCs disponíveis no nível {level}.
 confirm_buy_text: |-
