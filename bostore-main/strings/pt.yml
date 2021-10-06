@@ -14,7 +14,6 @@ start_text: |-
 wallet_info: |-
     Explore o bot pelos botões abaixo. Qualquer dúvida é só chamar @SnowCcs.
 
-
     <b>Avisos</b>
     
     - Checker online ✅
@@ -211,7 +210,7 @@ could_not_get_bin_info: |-
 buy_bin: |-
     💰 Comprar {quant} - R${price}
 prices_has_not_level: |-
-    ❌ Não há preço definido para cartões de nível {level}. Por favor tire um print desta mensagem e envie para @oWDinfos para que o nível possa ser adicionado.
+    ❌ Não há preço definido para cartões de nível {level}. Por favor tire um print desta mensagem e envie para @SnowCCs para que o nível possa ser adicionado.
 not_enough_ccs_for_bin: |-
     ❌ Não há mais a quantidade desejada para o pacote de bins, o valor das mesmas foi estornado. Quantidade disponível: {available}.
 error_too_short_buy_interval: |-
