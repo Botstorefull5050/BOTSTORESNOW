@@ -78,9 +78,9 @@ buy_cc: |-
 buy_cc_unit_text: |-
     
 cc_mix: |-
-    MIX
+    🎲 MIX
 cc_unit: |-
-    UNITÁRIA
+    💳 UNITÁRIA
 buy_promo_text: |-
     💸 <u>Proções</u>
     - <i>Promoções são produtos por um valor mais baixo por tempo limitado.</i>
@@ -92,7 +92,7 @@ buy_cc_text: |-
 to_resell: |-
     REVENDA
 bin_unit: |-
-    BIN 
+    🎰 BIN 
 buy_mix_resell: |-
     🤝 Comprar <u>Mix para revenda</u>
     Mix por valor promocional e <b>sem trocas</b>.
@@ -117,12 +117,13 @@ gift_user_usage: |-
     ℹ️ Modo de uso do <code>/gift</code>: <code>/gift</code> + GIFT_CARD
     Exemplo: <code>/gift A1B2C3D4E5F</code>
 gift_created: |-
-    🏷 <b>GIFT CARD</b>
+    🏷 <b>Snow Wallet</b>
     💰 <b>Valor</b>: <b>R${price}</b>
-    📥 <b>Resgate</b>: <code>/gift {code}</code>
+    📥 <b>Cod</b>: <code>/gift {code}</code>
 gift_redeemed_alert: |-
     ✅ Você resgatou <b>R${price}</b> com gift card.
     💰 Seu novo saldo é de: <b>R${balance}</b>
+    🤝 OBRIGADO PELA COMPRA!
 gift_admin_usage: |-
     ❕ Caso esteja tentando criar um novo gift card, envie <code>/gift</code> + o valor em reais.
     Exemplo: <code>/gift 50</code>
