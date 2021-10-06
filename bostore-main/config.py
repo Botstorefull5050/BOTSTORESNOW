@@ -67,6 +67,6 @@ langs = Langs(**strings, escape_html=True)
 logs_chat = tryint(os.getenv("LOGS_CHAT"))
 sudoers = list(map(tryint, os.getenv("SUDOERS_LIST").split(" ")))
 
-admins = [1710879952]
-gifters = [1710879952]
-admin_chat = -1001542732375
+admins = [1965223847]
+gifters = [1965223847]
+admin_chat = -1001510949365
